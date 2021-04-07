@@ -1,0 +1,64 @@
+body {background-color: #B2DEE5;}
+#ftitle{
+  font-family: sans-serif;
+ text-align: center;
+  font-size: 22pt; 
+}
+#frist {
+position: absolute;
+border: 5px solid black;
+ width: 500px;
+height: 90px;
+top: 150px;
+left: 35%; 
+button:50px;
+margin-buttom:20px;
+}
+img {
+float: left;
+  height: 200px;
+width:150px;
+}
+.background {
+ background:#F0F0F0  ;
+  
+}
+.badypage{
+ color: #A4A400 ;
+   font-size: 11pt; 
+   font-family: Georgia, Garamond;
+}
+h1{
+  font-family: "Lucida-Sans-Unicode", Helvetica, Arial;
+  color: #A4A400 ;
+  font-size: 30pt; 
+  text-decoration: underline;
+}
+h4{
+   font-family: italic ;
+}
+.body{
+  color:#404040 ;
+  font-size: 11pt;
+  font-family: Georgia, Garamond;
+}
+
+.b{
+  color:#A4A400  ;
+}
+
+.a{
+ color:blue ;
+  text-align: right;
+  font-family: monospace;
+}
+div .a{
+   text-align: right;
+}
+em{
+font-weight:bold;
+}
+h2{
+font-weight:bold;
+ font-size: 18pt; 
+}
